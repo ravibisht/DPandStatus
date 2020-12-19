@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "970268676957",
+    "firebase_url": "https://stark-status.firebaseio.com",
+    "project_id": "stark-status",
+    "storage_bucket": "stark-status.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970268676957:android:7f2cebf6ea85e96f3a0eb4",
+        "android_client_info": {
+          "package_name": "com.stark.dpstatus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970268676957-o2cbu31haads4vnt5gfm3ikhrb6q39sp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_5eF-zHxaLbYRm6qQFpt-0ZKKXGdHf7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970268676957-o2cbu31haads4vnt5gfm3ikhrb6q39sp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970268676957:android:a0ab5262662795873a0eb4",
+        "android_client_info": {
+          "package_name": "com.stark.status"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970268676957-o2cbu31haads4vnt5gfm3ikhrb6q39sp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_5eF-zHxaLbYRm6qQFpt-0ZKKXGdHf7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970268676957-o2cbu31haads4vnt5gfm3ikhrb6q39sp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
