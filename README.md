@@ -16,6 +16,22 @@ This Application never upload any data.
  
  ## Screenshot Of Application 
  
+
+| <h2 class="rich-diff-level-zero"> Text Status  Screen  </h2> | <h2 class="rich-diff-level-zero"> Latest Status  Screen </h2> | 
+| ------------------ | ----------- |
+| <img src="https://user-images.githubusercontent.com/47188858/110250080-91592c00-7f9f-11eb-9017-f99e244ddb4d.png" width="350" height="600"/>  | <img src="https://user-images.githubusercontent.com/47188858/110250082-974f0d00-7f9f-11eb-98b5-200fb54764ae.png" width="350" height="600"/>  |
+
+|<h2 class="rich-diff-level-zero"> Trending Status Screen </h2> | <h2 class="rich-diff-level-zero"> Individual Status Activity Screen </h2> |
+| ------------------ | ----------- |
+|<img src="https://user-images.githubusercontent.com/47188858/110250086-9b7b2a80-7f9f-11eb-87f1-b597738f1e92.png" width="350" height="600"/> | <img src="https://user-images.githubusercontent.com/47188858/110250090-9e761b00-7f9f-11eb-86d3-63d764933632.png" width="350" height="600"/> | 
+
+|<h2 class="rich-diff-level-zero"> Status And Dp Category </h2> | <h2 class="rich-diff-level-zero">  Text Status Activity Screen </h2> |
+| ------------------ | ----------- |
+|<img src="https://user-images.githubusercontent.com/47188858/110250093-a209a200-7f9f-11eb-98a4-2b5480db81c8.png" width="350" height="600"/> | <img src="https://user-images.githubusercontent.com/47188858/109531078-75581500-7add-11eb-89db-1659fd647d53.JPG" width="350" height="600"/> | 
+
+ 
+ 
+ <!---  
  ## 1) Text Status
  ![sc1](https://user-images.githubusercontent.com/47188858/109528332-92d7af80-7ada-11eb-8e52-96d2c80408fd.png)
  
@@ -33,4 +49,6 @@ This Application never upload any data.
 
 ## 6) Text Status Activity
 ![s6](https://user-images.githubusercontent.com/47188858/109531078-75581500-7add-11eb-89db-1659fd647d53.JPG)
+
+--->
 
